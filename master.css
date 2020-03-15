@@ -1,0 +1,10 @@
+body{
+  background-color: purple;
+}
+
+.myDiv{
+  color: Black;
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
